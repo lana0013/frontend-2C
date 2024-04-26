@@ -1,0 +1,88 @@
+body {
+    text-align: center;
+    background-color: rgb(71, 2, 85);
+}
+h2 {
+    color: #7704b9;
+    font-size: 40px;
+    font-family: "Bruno Ace", sans-serif;
+}
+.voltar {
+    margin-top: 20px;
+}
+.login-container {
+    margin-top: 50px;
+    width: 300px;
+    background-color: #b930d4; 
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(75, 1, 69, 0.1); 
+    display: inline-block;
+}
+.texto {
+    text-align: center;
+    font-size: 28px;
+    padding: 0 130px;
+}
+
+.ft1 {
+    float: left;
+    margin: 30px;
+}
+.ft2 {
+    float: right;
+    margin: 30px;
+}
+.sihyeon {
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    text-shadow: 3px 3px 5px #21b954;
+    font-family: "Bruno Ace", sans-serif;
+}
+.info{
+    padding: 35px;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 160px;
+}
+
+.eu {
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    text-shadow: 3px 3px 5px #6701ec;
+    font-family: "Bruno Ace", sans-serif;
+}
+
+.mia {
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    text-shadow: 3px 3px 5px #f32f15;
+    font-family: "Bruno Ace", sans-serif;
+}
+
+.onda {
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    text-shadow: 3px 3px 5px #f511b1;
+    font-family: "Bruno Ace", sans-serif;
+}
+
+.aisha {
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    text-shadow: 3px 3px 5px #7c831f;
+    font-family: "Bruno Ace", sans-serif;
+}
+
+.yiren {
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    text-shadow: 3px 3px 5px #edeee7;
+    font-family: "Bruno Ace", sans-serif;
+}

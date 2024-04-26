@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    background-color: rgb(180, 17, 112); 
+}
+.voltar {
+    margin-top: 20px;
+}
+.login-container {
+    margin-top: 50px;
+    width: 300px;
+    background-color: #f038a9; 
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(75, 1, 69, 0.1);
+    display: inline-block;
+    font-family: "Gluten", cursive;
+    font-size: 30px;
+    color: #83256b;
+}
+.texto {
+    text-align: center;
+    font-size: 28px;
+    padding: 0 130px;
+}
+
+.cft1 {
+    float: left;
+    margin: 30px;
+}
+.cft2 {
+    float: right;
+    margin: 30px;
+}
+.chuu {
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    text-shadow: 3px 3px 5px #5fb2e9;
+    font-family: "Gluten", cursive;
+}
+.chuuinfo{
+    padding: 30px;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 220px;
+}
+.fatos {
+    padding: 11px;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 0px;
+}

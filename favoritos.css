@@ -1,0 +1,28 @@
+body {
+    background-image: url('https://png.pngtree.com/back_origin_pic/04/04/29/ea07b2b02f13592cd6f2c93ceb24e93d.jpg');
+    background-size: cover; 
+    background-position: center; 
+    text-align: center;
+}
+h1 {
+    color: hsl(246, 78%, 61%); 
+    margin: 170px;
+    font-size: 50px;
+    font-family: "Permanent Marker", cursive;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 100px;
+    text-shadow: 4px 4px 6px rgba(209, 5, 56, 0.5);
+}
+.back-button {
+    position: absolute;
+    top: 10px; 
+    left: 10px; 
+    width: 150px; 
+    height: 100px;
+    background-image: url('https://thypix.com/wp-content/uploads/2020/04/white-arrow-99-700x471.png'); 
+    background-size: cover;
+}
+.nomes {
+    color: rgb(255, 1, 1);
+}

@@ -1,0 +1,72 @@
+body {
+    text-align: center;
+    background-color: rgb(233, 54, 99)
+}
+h2 {
+    color: #000000;
+    font-size: 40px;
+    font-family: "Tapestry", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.texto {
+    text-align: center;
+    font-size: 28px;
+    padding: 0 130px;
+}
+.voltar {
+    margin-top: 20px;
+    margin-top: 100px;
+}
+.login-container {
+    margin-top: 50px;
+    width: 300px;
+    background-color: #b60842;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(75, 1, 69, 0.1); 
+    display: inline-block;
+}
+.ft1 {
+    float: left;
+    margin: 30px;
+}
+.ft2 {
+    float: right;
+    margin: 30px;
+}
+.jisoo {
+    align-items: center;
+    display: inline-block;
+    font-size: 30px;
+    text-shadow: 3px 3px 5px #fa02fa;
+    font-family: "Tapestry", serif;
+}
+.info{
+    padding: 30px;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 150px;
+}
+.jennie {
+    align-items: center;
+    display: inline-block;
+    font-size: 30px;
+    text-shadow: 3px 3px 5px #f03219;
+    font-family: "Tapestry", serif;
+}
+.rose {
+    align-items: center;
+    display: inline-block;
+    font-size: 30px;
+    text-shadow: 3px 3px 5px #f8f414;
+    font-family: "Tapestry", serif;
+}
+.lisa {
+    align-items: center;
+    display: inline-block;
+    font-size: 30px;
+    text-shadow: 3px 3px 5px #3c39f3;
+    font-family: "Tapestry", serif;
+}
+

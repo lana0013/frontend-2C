@@ -1,0 +1,90 @@
+body {
+    text-align: center;
+    background-color: rgb(34, 153, 189);
+}
+h2 {
+    color: #168b9b;
+    font-size: 40px;
+    font-family: "Odibee Sans", sans-serif;
+}
+.voltar {
+    margin-top: 20px;
+}
+.login-container {
+    margin-top: 50px;
+    width: 300px;
+    background-color: #68b9f0; 
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0prgb(219, 31, 25)0px rgba(75, 1, 69, 0.1); 
+    display: inline-block;
+    font-size: 40px;
+    font-family: "Odibee Sans", sans-serif;
+}
+.texto {
+    text-align: center;
+    font-size: 28px;
+    padding: 0 130px;
+}
+
+.ft1 {
+    float: left;
+    margin: 30px;
+}
+.ft2 {
+    float: right;
+    margin: 30px;
+}
+.soyeon {
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    text-shadow: 3px 3px 5px #e01fb0;
+    font-family: "Odibee Sans", sans-serif;
+}
+.info{
+    padding: 30px;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 170px;
+}
+
+.miyeon {
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    text-shadow: 3px 3px 5px #e71c1c;
+    font-family: "Odibee Sans", sans-serif;
+}
+
+.minnie {
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    text-shadow: 3px 3px 5px #80c8f8;
+    font-family: "Odibee Sans", sans-serif;
+}
+
+.yuqi {
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    text-shadow: 3px 3px 5px #0db807;
+    font-family: "Odibee Sans", sans-serif;
+}
+
+.shuhua {
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    text-shadow: 3px 3px 5px #e7e40a;
+    font-family: "Odibee Sans", sans-serif;
+}
+
+.soojin {
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    text-shadow: 3px 3px 5px #ffffff;
+    font-family: "Odibee Sans", sans-serif;
+}
