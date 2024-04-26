@@ -1,0 +1,80 @@
+body {
+    text-align: center;
+    background-color: rgb(25, 2, 128);
+}
+h2 {
+    color: #27158d;
+    font-size: 40px;
+    font-family: 'Pixelify Sans';
+}
+.voltar {
+    margin-top: 20px;
+}
+.login-container {
+    margin-top: 50px;
+    width: 300px;
+    background-color: #6e3cf8; 
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(75, 1, 69, 0.1); 
+    display: inline-block;
+}
+.texto {
+    text-align: center;
+    font-size: 28px;
+    padding: 0 130px;
+}
+
+.ft1 {
+    float: left;
+    margin: 30px;
+}
+.ft2 {
+    float: right;
+    margin: 30px;
+}
+.minji {
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    text-shadow: 3px 3px 5px #4560fc;
+    font-family: 'Pixelify Sans';
+}
+.info{
+    padding: 30px;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 180px;
+}
+
+.hanni {
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    text-shadow: 3px 3px 5px #db3fac;
+    font-family: 'Pixelify Sans';
+}
+
+.danielle {
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    text-shadow: 3px 3px 5px #e7e419;
+    font-family: 'Pixelify Sans';
+}
+
+.haerin {
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    text-shadow: 3px 3px 5px #17d446;
+    font-family: 'Pixelify Sans';
+}
+
+.hyein {
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    text-shadow: 3px 3px 5px #c500f7;
+    font-family: 'Pixelify Sans';
+}

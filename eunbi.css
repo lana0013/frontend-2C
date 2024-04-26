@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    background-color: rgb(76, 28, 116)
+}
+.voltar {
+    margin-top: 20px;
+}
+.login-container {
+    margin-top: 50px;
+    width: 300px;
+    background-color: #943add; 
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(75, 1, 69, 0.1);
+    display: inline-block;
+    font-family: "Bilbo Swash Caps", cursive;
+    font-size: 30px;
+    color: #7c1c8f;
+}
+.texto {
+    text-align: center;
+    font-size: 28px;
+    padding: 0 130px;
+}
+
+.eft1 {
+    float: left;
+    margin: 30px;
+}
+.eft2 {
+    float: right;
+    margin: 30px;
+}
+.eunbi {
+    align-items: center;
+    display: inline-block;
+    font-size: 25px;
+    text-shadow: 3px 3px 5px #a06119;
+    font-family: "Bilbo Swash Caps", cursive;
+}
+.eunbinfo{
+    padding: 30px;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 170px;
+}
+.fatos {
+    padding: 11px;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 0px;
+}

@@ -1,0 +1,44 @@
+body {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/000/335/579/original/vector-baby-dinosaur-background-pattern.jpg');
+    background-size: cover; 
+    background-position: center; 
+  }
+        .sidebar {
+            height: 100%;
+            width: 250px;
+            position: fixed;
+            top: 0;
+            left: 0;
+            background-color: #662020;
+            padding-top: 20px;
+        }
+        
+        .sidebar a {
+            padding: 10px;
+            text-decoration: none;
+            font-size: 18px;
+            color: white;
+            display: block;
+        }
+        
+        .sidebar a:hover {
+            background-color: #a50c0c;
+        }
+        
+        .navbar {
+            background-color: #662020;
+            overflow: hidden;
+        }
+        
+        .navbar a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+        
+        .navbar a:hover {
+            background-color: #a50c0c;
+        }

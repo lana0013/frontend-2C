@@ -1,0 +1,101 @@
+.carousel {
+    position: relative;
+    max-width: 400px;
+    margin: 0 auto;
+    padding-top: 50px;
+  }
+  
+  .carousel-images {
+    display: flex;
+    overflow: hidden;
+  }
+  
+  .carousel-images img {
+    width: 100%;
+    transition: transform 0.5s ease;
+  }
+  
+  button {
+    position: absolute;
+    top: 58%;
+    transform: translateY(-50%);
+    background: rgb(224, 33, 33);
+    border:  3px solid rgb(56, 5, 107);
+    cursor: pointer;
+    margin-inline: 420px;
+  }
+  
+  .next {
+    right: 0;
+  }
+  .prev {
+    left: 0;
+  }
+  
+body {
+    background-image: url('https://i.pinimg.com/564x/62/7b/6b/627b6b9ff3c4e757c3536d4dee932d96.jpg');
+    background-size: cover; 
+    background-position: center; 
+    text-align: center;
+}
+
+
+
+  header {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+    background-color: #070250;
+    color: #fff;
+    padding: 10px 20px; 
+  }
+  
+  .logo img {
+    max-width: 150px;
+  }
+  
+  .title h1 {
+    font-size: 60px;
+    color: #1c0dee;
+    font-family: "Protest Guerrilla", sans-serif;
+  }
+  
+
+
+
+.navbar {
+    background-color: #070250;
+    color: #fff;
+  }
+  
+  .navbar a {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex; 
+    justify-content: space-around; 
+  }
+  
+  .navbar ul li {
+    display: inline;
+  }
+  
+  .navbar ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .navbar a:hover {
+    background-color: #221b85;
+}
+  
+
